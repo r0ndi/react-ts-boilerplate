@@ -1,0 +1,15 @@
+# Defaults
+/node_modules
+/coverage
+.eslintcache
+
+# Production
+/build
+
+# IDE
+.DS_Store
+.idea
+
+# Env
+.env
+.env.local

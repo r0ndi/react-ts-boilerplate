@@ -1,0 +1,51 @@
+{
+    "page": {
+        "register": {
+            "title": "Sign Up"
+        },
+        "login": {
+            "title": "Sign In"
+        },
+        "home": {
+            "title": "Homepage content.."
+        }
+    },
+    "component": {
+        "copyright": {
+            "title": "Copyright ©",
+            "description": "Your Website"
+        },
+        "header": {
+            "app-name": "React Ts Bolerplate <strong>App</strong>"
+        },
+        "login-form": {
+            "submit-button": "Sign In",
+            "password-recorvery-redirect": "Forgot password?",
+            "register-redirect": "Don't have an account? Sign Up."
+        },
+        "register-form": {
+            "submit-button": "Sign Up",
+            "login-redirect": "Do you have an account? Sign In."
+        },
+        "suspense-fallback": {
+            "loading-massage": "Loading..."
+        },
+        "user-menu": {
+            "account-details": "Account details",
+            "account-delete": "Delete account",
+            "logout": "Logout"
+        },
+        "user-details-edit": {
+            "title": "Edit account details:",
+            "submit-button": "Save changes"
+        }
+    },
+    "forms": {
+        "user": {
+            "email": "Email Address",
+            "password": "Password",
+            "firstname": "Firstname",
+            "lastname": "Lastname"
+        }
+    }
+}

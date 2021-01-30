@@ -1,0 +1,10 @@
+{
+    "errors": {
+        "invalid-creadentials": "Invalid credentials",
+        "invalid-user-data": "Invalid user data"
+    },
+    "success": {
+        "user-has-been-deleted": "Account has been deleted",
+        "user-updated": "User updated!"
+    }
+}
